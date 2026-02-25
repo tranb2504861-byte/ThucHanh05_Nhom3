@@ -6,12 +6,12 @@ Hoàn thành các năng lực số cơ bản bao gồm:
 * Sử dụng AI đạo đức và minh bạch (CLO12).
 
 Danh sách file:
-nv 1.1 pdf Báo cáo về ứng dụng công nghệ số trong học tập. | Google Docs, Google Bard |
-nv 1.2 pdf Tài liệu có sự đóng góp và bình luận của nhóm. | Google Docs |
-nv 2.1 png  Ảnh đồ họa về lợi ích của công nghệ số. | Canva AI, Unsplash |
-nv 2.2 mp4  Video ngắn giới thiệu lợi ích công nghệ. | CapCut, Pexels, FreeSound |
-nv 3.1 html  Trang web hiển thị nội dung đa phương tiện. | VS Code, GitHub Copilot |
-nv 1.2 png screenshots Thư mục chứa ảnh lịch sử chỉnh sửa (Version History). | Snipping Tool |
+* nv 1.1 pdf Báo cáo về ứng dụng công nghệ số trong học tập. | Google Docs, Google Bard |
+* nv 1.2 pdf Tài liệu có sự đóng góp và bình luận của nhóm. | Google Docs |
+* nv 2.1 png  Ảnh đồ họa về lợi ích của công nghệ số. | Canva AI, Unsplash |
+* nv 2.2 mp4  Video ngắn giới thiệu lợi ích công nghệ. | CapCut, Pexels, FreeSound |
+* nv 3.1 html  Trang web hiển thị nội dung đa phương tiện. | VS Code, GitHub Copilot |
+* nv 1.2 png screenshots Thư mục chứa ảnh lịch sử chỉnh sửa (Version History). | Snipping Tool |
 
 ---
 
