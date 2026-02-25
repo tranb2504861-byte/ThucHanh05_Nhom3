@@ -1,9 +1,9 @@
 # ThucHanh05_Nhom3
-Mục tiêu thực hành:
-•	Tìm kiếm, lọc, đánh giá và quản lý dữ liệu số đơn giản trong bối cảnh học tập (CLO7).
-•	Giao tiếp, chia sẻ thông tin và hợp tác nhóm trực tuyến với quy tắc ứng xử cơ bản (CLO8).
-•	Tạo, chỉnh sửa nội dung số (văn bản, đa phương tiện, mã nguồn) và áp dụng bản quyền (CLO9).
-•	Sử dụng và đánh giá công cụ AI đạo đức, minh bạch trong ứng dụng đơn giản (CLO12).
+Hoàn thành các năng lực số cơ bản bao gồm:
+* Tìm kiếm, lọc và quản lý dữ liệu số (CLO7).
+* Hợp tác nhóm trực tuyến và quy tắc ứng xử (CLO8).
+* Tạo lập nội dung số và áp dụng bản quyền Creative Commons (CLO9).
+* Sử dụng AI đạo đức và minh bạch (CLO12).
 
 Danh sách file:
 nv 1.1 pdf Báo cáo về ứng dụng công nghệ số trong học tập. | Google Docs, Google Bard |
