@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sản phẩm của Lương Cảnh</title>
+    <style>
+        body { 
+            /* Nếu bạn chưa có file background.jpg, mình dùng tạm màu gradient xanh cho đẹp nhé */
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
+            background-attachment: fixed;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95); 
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+            max-width: 700px;
+            width: 90%;
+            text-align: center;
+            margin: 40px 20px;
+        }
+
+        h1 { color: #4a148c; margin-bottom: 10px; }
+        h3 { color: #1a237e; border-bottom: 2px solid #7986cb; display: inline-block; padding-bottom: 5px; }
+        
+        img, video { 
+            max-width: 100%; 
+            height: auto;
+            border-radius: 12px; 
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin: 15px 0;
+        }
+
+        .footer { margin-top: 25px; color: #7f8c8d; font-size: 0.85em; font-style: italic; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Dự án Nội dung số</h1>
+        <p>Thực hiện bởi: <strong>Lương Cảnh</strong></p>
+        
+        <h3>1. Infographic</h3>
+        <img src="infographic.png" alt="Infographic">
+
+        <h3>2. Video Clip</h3>
+        <video controls>
+            <source src="phan_2%202.2_LuongCanh.mp4" type="video/mp4">
+            Trình duyệt không hỗ trợ xem video.
+        </video>
+
+        <div class="footer">
+            <p><span class="highlight">© 2026 Bản quyền thuộc về Nhóm03.</span></p>
+                <p>Infographic và Video được sử dụng theo quy định bản quyền.</p>
+                <p style="margin-top: 15px; font-size: 0.9em;">Nội dung này được tạo bằng trí tuệ nhân tạo Github Copilot.</p>
+        </div>
+    </div>
+
+</body>
+</html>
